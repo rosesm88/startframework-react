@@ -1,0 +1,16 @@
+
+
+.home{
+    background-color: var(--main-color);
+    min-height: inherit;
+}
+.custom-img{
+    width: 250px;
+}
+.content h2 {
+color: white;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+padding-top: 24px;
+}

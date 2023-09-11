@@ -1,0 +1,30 @@
+
+
+.portfolio{
+    min-height: inherit;
+}
+
+.title h1 {
+    color: var(--second-color);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+.start{
+    color: var(--second-color) !important;
+}
+.bg{
+    background-color: var(--second-color) !important;
+}
+.layer{
+    background-color: #1abc9ce6;
+    opacity: 0;
+    transition: all 0.6s;
+    cursor: pointer;
+}
+.item:hover .layer{
+    opacity: 1;
+}
+.model__{
+    z-index: 9999;
+}

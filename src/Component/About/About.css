@@ -1,0 +1,14 @@
+.about {
+    background-color: var(--main-color);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    min-height: inherit;
+}
+
+.about-header {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: white;
+
+}

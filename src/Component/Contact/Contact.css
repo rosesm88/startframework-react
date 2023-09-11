@@ -1,0 +1,15 @@
+
+.contact{
+    min-height: inherit;
+}
+label{
+    color: var(--main-color);
+    margin-bottom: 7px;
+    transition: all 0.5s;
+}
+button{
+    background-color: var(--main-color) !important;
+}
+.form-control:focus{
+    box-shadow: none !important;
+}
